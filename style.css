@@ -26,6 +26,12 @@ body {
         
  }
 
+ #angry_emoji {position: relative;
+    top: 150px;
+    left: 250px;
+    animation: 1s ease-in 0s;
+}
+ 
 a:hover {
     background-color: white;
     cursor:pointer;
