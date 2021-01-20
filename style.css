@@ -26,6 +26,10 @@ body {
         
  }
 
+ aside {
+     float:left;
+    }
+    
  #angry_emoji {
      size: 200px;
     top: 150px;
